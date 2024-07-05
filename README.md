@@ -1,0 +1,1 @@
+# qc-camp-blank-html-starter
